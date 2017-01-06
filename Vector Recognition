@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        Building-Recognition
+# Name:        Vector-Recognition
 # Purpose:
 # Creates contour list of all residential buildings found in a satelite photo.
 # Based on Bing maps photos of Labe in Gambia, using brightly coloured
