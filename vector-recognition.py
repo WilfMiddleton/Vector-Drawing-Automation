@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        Vector-Recognition
+# Name:        Vector-Recognition for python2.7
 # Purpose:
 # Creates contour list of all residential buildings found in a satelite photo.
 # Based on Bing maps photos of Labe in Gambia, using brightly coloured
